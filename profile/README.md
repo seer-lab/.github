@@ -1,6 +1,6 @@
 # About
 
-The Software Engineering & Education Research (SEER) Lab at Ontario Tech University is under the direction of Dr. Jeremy S. Bradbury and focuses on improving the software quality of complex systems through enhanced development practices, tools and education. In particular members of the lab conduct research on:
+The [Software Engineering & Education Research (SEER) Lab](https://www.seerlab.ca) at [Ontario Tech University](https://www.ontariotechu.ca/) is under the direction of [Dr. Jeremy S. Bradbury](www.jeremybradbury.ca) and focuses on improving the software quality of complex systems through enhanced development practices, tools and education. In particular members of the lab conduct research on:
 
 - Industry relevant problems and challenges
 - Automation of software development activities using artificial intelligence (AI)
